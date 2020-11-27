@@ -1,0 +1,15 @@
+.btn-red {
+  color: white;
+  text-decoration: none;
+  background-color: #D90429;
+  border-radius: 4px;
+  font-size: 23px;
+  padding: 10px 20px;
+  font-family: 'Oswald', sans-serif;
+  transition: filter 0.4s ease;
+  filter: brightness(1);
+}
+
+.btn-red:hover {
+  filter: brightness(1.2);
+}
